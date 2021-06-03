@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A proposal to raise more equally, a certain sum, than what can be expected from a duty of 12 L. per tun, upon all wines in merchants and retailers hands.</title>
+         </titleStmt>
+         <extent>Approx. 2KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B28446</idno><idno type="EEBO-CITATION">99885659</idno>
+  <idno type="VID">185495</idno>
+  <idno type="EEBO-PROQUEST">2240890679</idno>
+  
+            <idno type="STC">Wing P3714</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.14[42]</idno>
+            <idno type="STC">ESTC R224793</idno>
+            <idno type="PROQUEST">ocm99885659</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99885659e"/>
+            <note>(EEBO-TCP ; phase 2, no. B28446)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 185495)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C1:3[42])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A proposal to raise more equally, a certain sum, than what can be expected from a duty of 12 L. per tun, upon all wines in merchants and retailers hands.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1690?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Caption title.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Wine and wine making --  Taxation --  Early works to 1800.</term>
+               <term type="topical_term">Wine and wine making --  Law and legislation --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proposal">
+            <pb facs="tcp:185495:1"/>
+            <pb facs="tcp:185495:1"/>
+            <head>A PROPOSAL to raise more equal<g ref="char:EOLhyphen"/>ly, a certain Sum, than what can be ex<g ref="char:EOLhyphen"/>pected from a Duty of <hi>12 l. per</hi> Tun, upon all Wines in Merchants and Retail<g ref="char:EOLhyphen"/>ers Hands.</head>
+            <p n="1">1. THAT a Tax be laid, either upon Soap or Candles, for every Family to pay to the King six Pence <hi>per</hi> Pound, according to the Rent of their Houses.</p>
+            <p n="2">II. That all Lodgers that Rent any Rooms or Cham<g ref="char:EOLhyphen"/>bers by the Quarter, or for any longer Time, or shall continue above a Quarter of a Year at any one Place, shall pay the said six Pence <hi>per</hi> Pound, according to their Rent.</p>
+            <p n="3">III. That all Cottages, under 3 <hi>l. per annum,</hi> shall be exempted.</p>
+            <p n="4">IV. That all Families that pay no Rent, but dwell in their own Houses, their Houses shall be moderately rated according to others.</p>
+            <p>This Tax will fall equal upon all Men in general, and may easily be collected Quarterly, with a small Charge to the King, by the same Assessors and Re<g ref="char:EOLhyphen"/>ceivers that are appointed for other Taxes, and may very well be laid in lieu of the Wine; for it will, by a modest Computation, bring in about Two hundred and and fifty thousand Pound <hi>per annum,</hi> to the Hurt of no body, whereas that upon the Wines, will prove, cer<g ref="char:EOLhyphen"/>tainly the Destruction of that Trade; for it will lessen the Consumption extreamly, which will be the Ruine of several Merchants, and a great Number of Vintners, and will fall very hard upon these, as Coopers, Car<g ref="char:EOLhyphen"/>men, and Porters, and lessen considerably our Shipping and Navigation, and the exporting of our own Manu<g ref="char:EOLhyphen"/>factures.</p>
+            <pb facs="tcp:185495:2"/>
+            <pb facs="tcp:185495:2"/>
+         </div>
+      </body>
+   </text>
+</TEI>
